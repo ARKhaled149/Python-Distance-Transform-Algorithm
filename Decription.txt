@@ -1,0 +1,5 @@
+Preprocessing Steps:
+	1. Change the image to grayscale to be able to work for edge detections for accurate results
+	2. Binarizatrion to assign a pixel either a value of 0 or 1 for example
+	3. Filtering: to highlight the bright spots
+	4. Canny: for Edge Detection
