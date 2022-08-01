@@ -1,0 +1,2 @@
+# Python-Distance-Transform-Algorithm
+The algorithm takes the image as an input and the distance measure to be used (Euclidean Distance,  City-block Distance or Chessboard Distance). The function outputs the distance transform matrix  after the first pass of the algorithm, the final distance transform matrix and the distances indicated above  measured relative to the representative point of each ship. The representative point of the  big ship at row number is 150 and column number is 200, while for the small ship is row number 310 and  column number 175. 
